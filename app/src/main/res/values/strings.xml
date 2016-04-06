@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TestVolley</string>
+    
+    <!-- Strings related to login -->
+    <string name="prompt_email">账户名</string>
+    <string name="prompt_password">密码 (optional)</string>
+    <string name="action_sign_in">登录或注册</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_email">请您输入账户名</string>
+    <string name="error_invalid_password">请您输入密码</string>
+    <string name="error_incorrect_password">账户或密码不正确</string>
+    <string name="error_field_required">必填项</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">设置</string>
+    <string name="action_settings2">设置2</string>
+    <string name="action_settings3">设置3</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
